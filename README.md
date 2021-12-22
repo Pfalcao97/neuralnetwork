@@ -1,5 +1,3 @@
 # Neural Network
 
-Making a Neural Network from scratch, using basic calculus and python.
-
-A more through explanation about Neural Networks may be seen in "revisao_nn.pdf" (in portuguese).
+Criando uma rede neural (Neural Network) a partir de noções básicas de cálculo e de uma revisão na literatura (revisao_nn.pdf). Escrita totalmente em Python por mim, após a realização de alguns cursos de programação no Coursera.
